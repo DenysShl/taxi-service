@@ -73,5 +73,8 @@ below:
 ### _Project structure_
 ![](screenshots/structure_project.png)
 
-### _Also, you can just check it out following this link_
-### [taxi-service for heroku](https://github.com/DenysShl/taxi-service3.git)
+### Also, you can just check it out following this link
+### [taxi-service for heroku](https://taxi-service3.herokuapp.com)
+
+login: `test`
+pas: `q123`
