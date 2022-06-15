@@ -3,7 +3,7 @@
 
 ### Project description:
 
-```A simple web-application that supports authentication, registration and other CRUD operations.```
+A simple web application that supports authentication, registration, selection of all manufacturers, drivers, cars, a list of current cars for a driver user, and a list of drivers for a specific car. With the ability to add new and remove manufacturers, drivers and cars. The default database is PostgreSQL.
 
 ## Features 👀️:
 
@@ -27,7 +27,7 @@
 
 ## Technologies that were used to create the service:
  - Apache Tomcat (to run app locally)
- - MySQL
+ - MySQL or PostgreSQL
  - JDBC
  - Servlet
  - JSTL
