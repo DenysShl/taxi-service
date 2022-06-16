@@ -3,7 +3,10 @@
 
 ### Project description:
 
-A simple web application that supports authentication, registration, selection of all manufacturers, drivers, cars, a list of current cars for a driver user, and a list of drivers for a specific car. With the ability to add new and remove manufacturers, drivers and cars. The default database is PostgreSQL.
+This is web application that represents taxi web service. It build using SOLID principles and implemented such 
+functionality as authentication, registration, selection of all manufacturers, drivers, vehicles, a list of current 
+vehicles for a driver user, and a list of drivers for a specific vehicle. With the ability to add new and remove 
+manufacturers, drivers and vehicles.  Front end part implemented using JSP technology.
 
 ## Features 👀️:
 
